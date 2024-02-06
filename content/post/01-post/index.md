@@ -11,6 +11,7 @@ categories:
 
 ## Before Explanation: A Personal Journey into Bug Bounties
 
+So let's start from the very beginning.
 I work as an application security engineer and several key tasks stand out in our daily activities:
 
 1. Testing new features developed by our developers.
