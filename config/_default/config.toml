@@ -4,11 +4,6 @@ languageCode = "en-us"
 paginate = 5
 title = "Security Tavern"
 
-# Google Analytics
-[services]
-  [services.googleAnalytics]
-    googleAnalytics = 'G-YZSYV70RRF'
-
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, zh-tw, es, de, nl, it, th, el, uk, ar
 defaultContentLanguage = "en"
@@ -19,3 +14,8 @@ hasCJKLanguage = false
 
 # Change it to your Disqus shortname before using
 disqusShortname = "securitytavern"
+
+# Google Analytics
+[services]
+  [services.googleAnalytics]
+    googleAnalytics = 'G-YZSYV70RRF'
